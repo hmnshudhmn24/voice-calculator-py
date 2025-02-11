@@ -17,7 +17,4 @@ A **Python Voice Calculator** that:
    python voice_calculator.py  
    ```  
 3. Speak a mathematical expression when prompted.  
-4. Say "exit" to quit.  
-
-## Author  
-Himanshu Dhiman  
+4. Say "exit" to quit. 
